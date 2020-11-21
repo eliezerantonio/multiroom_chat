@@ -1,0 +1,19 @@
+{
+  "name": "multiroom_chat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "consign": "^0.1.6",
+    "ejs": "^2.7.4",
+    "express": "^4.15.3",
+    "express-validator": "^3.2.1",
+    "socket.io": "^2.3.0"
+  }
+}
